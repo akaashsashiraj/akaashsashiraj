@@ -1,4 +1,4 @@
-#Hi there, I'm Akaash 👋
+# Hi there, I'm Akaash 👋
 <br><br><br>I'm a Computer Science student at IIT (University of Westminster)  with <br>a strong passion for UI/UX design and  full-stack development. I love <br>building innovative solutions to real-world problems and have worked<br> on various projects, including web and mobile applications.<br><br><br><br><br>🌱I'm a Computer Science student at IIT (University of Westminster)<br>👯 I’m looking to collaborate on open source project<br>🤝 I’m looking for help with<br>💬 Ask me about Frontend Development and UI UX designing<br>📫 How to reach me akaashsashiraj30@gmail.com<br>😄 Call me as:  Ak<br>
 
 
